@@ -1,4 +1,0 @@
-220529_shortbred_FMG-CARD-NCBIAMR_clustId-95pc.faa is the ARG marker file generated through shortbred_identify.py (--clustid 0.95). 
-The marker file is based on the functionally screened ARGs from this study (230424_DOME_FMGhits.fasta), ARGs identified through functional metagenomics in our previous studies (230424_FMG_PreviousHits.fasta), and the ARGs within CARD (v3.2.2) and the NCBI AR gene catalogue (v2022-04-04.1). 
-An example script on how to use the marker file for metagenomic resistome characterization through ShortBRED is provided (shortbred_quantify.sh). 
-The example script uses paired Illumina sequencing files (forward and reverse) that have been pre-processed with Trimmomatic, Deconseq, and repair.sh script within BBMap/BBTools.
